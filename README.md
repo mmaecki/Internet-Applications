@@ -5,10 +5,10 @@ Univeristy project created by a team of four - Mateusz Zieleziński, Anotni Lasi
 
 This project backend starts on port 4200 and frontend on port 3000 (by npm start)
 Possibilities of login
-  username: Antos, password: 123 - role Client \n
-  username: Kubica, password: 123 - role Driver \n
-  username: robotnik, password: 123 - role Hub worker \n
-  username: franek.kimono, password: 123 - role Manager \n
+  username: Antos, password: 123 - role Client
+  username: Kubica, password: 123 - role Driver
+  username: robotnik, password: 123 - role Hub worker
+  username: franek.kimono, password: 123 - role Manager
 
 working endpoints:
   localhost:3000 - login page/home page
