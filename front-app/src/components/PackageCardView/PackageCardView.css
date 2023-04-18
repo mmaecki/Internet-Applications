@@ -1,0 +1,15 @@
+
+.list-row {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.history-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.column {
+  width: 100%;
+}

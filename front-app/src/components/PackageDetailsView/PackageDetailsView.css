@@ -1,0 +1,20 @@
+.wrapper-details {
+  width: 60%;
+}
+
+.details-section {
+  width: 100%;
+}
+
+.detail-name {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.details-flexbox {
+  display: flex;
+  justify-content: space-between;
+  /* gap: 48px; */
+  padding: 24px;
+}

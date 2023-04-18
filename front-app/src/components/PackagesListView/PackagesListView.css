@@ -1,0 +1,13 @@
+.list-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-column {
+  width: 100%;
+  font-weight: 700;
+}
+
+.wrapper {
+  width: 100%;
+} 
